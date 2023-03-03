@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="puntoBoton">.</string>
+    <string name="ceroBoton">0</string>
+</resources>
